@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\backend",
+    "\\backend\\frontend",
+    "\\backend\\frontend\\public\\images",
+    "\\backend\\frontend\\src",
+    "\\backend\\frontend\\src\\components",
+    "\\backend\\polls\\views"
+  ],
+  "SelectedNode": "\\backend\\frontend\\src\\components\\ProductCarousel.js",
+  "PreviewInSolutionExplorer": false
+}
